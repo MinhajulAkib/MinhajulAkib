@@ -1,11 +1,12 @@
-## Hi there, I'm Niloy  👋
+## Hi there, I'm Minhajul Islam  👋
 
 ### I'm a Student, Learner, Dreamer, and a Developer
 
 - 🔭 I’m currently working on Disease classification using Machine Learning technique.
-- 🌱 I’m currently learning more about Deep Learning methods.
-- 🥅 I'm also trying to learn Web development using Django.
-- 👯 I’m looking to collaborate on data science and deep learning projects.
+- 🌱 I’m looking to collaborate on data science and deep learning projects.
+- 👯 I’m also trying to learn web develodment using Django.
+- 🥅 Contribute more to Open Source projects.
+- 🤝 I’m currently working on Data analysis and data visualization.
 
 <br>
 
