@@ -16,7 +16,7 @@
 [<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/profile.php?id=100051076745400) 
 [<img src = "https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo">](https://www.kaggle.com/minhajgrawhill) 
 [<img src = "https://img.shields.io/badge/Researchgate-%230077B5.svg?&style=for-the-badge&logo">](https://www.researchgate.net/profile/Minhajul_Islam11) 
-[<img src = "https://img.shields.io/badge/Quora-%230077B5.svg?&style=for-the-badge&logo">](https://bn.quora.com/profile/Minhajul-Islam-Akib)
+[<img src = "https://img.shields.io/badge/Quora-%230077B5.svg?&style=for-the-badge&logo">](https://www.quora.com/profile/Minhajul-Islam-Akib-1)
 
 
 
