@@ -14,7 +14,7 @@
 </p>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MinhajulAkib)
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajulAkib" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajulAkib" />
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]("https://www.linkedin.com/in/minhajul-islam-934682168/)   
@@ -28,9 +28,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
-<img alt="javascript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img alt="react" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img alt="nodejs" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img align="left" alt="javascript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="left" alt="react" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img align="left" alt="nodejs" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" alt="Power Bi" width="26px" src="https://www.next-step.es/wp-content/uploads/2017/06/Power-BI.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
